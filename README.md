@@ -3,7 +3,8 @@ A compilation of scripts used to score various tasks presented using PsychoPy (l
 
 # Scored tasks
 * Milkshake Scan
-* BDM Auction
+* Auction
 * Fat and Sugar Preference
-* Probabilistic Feedback
-* Tower of London
+* Penn Line Orientation Task (PLOT)
+* Probabilistic Feedback (PFT)
+* Tower of London (ToL)

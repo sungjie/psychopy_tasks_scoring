@@ -1,1 +1,2 @@
 # Fat and Sugar Preference scoring
+This script accepts raw PsychoPy output data - as defined by Peirce et al. 2019 - for the fat and sugar preference task developed by Dana Small. It accepts a 'data/' folder with one rating.csv and one randomization.csv file per subject and outputs a single .csv with all subjects' data. It's very important that rating and randomization files follow the naming scheme, "XXXX_filename," or else the script will not be able to match the two. 

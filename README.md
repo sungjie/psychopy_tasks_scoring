@@ -5,6 +5,6 @@ A compilation of scripts used to score various tasks presented using PsychoPy (l
 * Milkshake Scan
 * Auction
 * Fat and Sugar Preference
-* Penn Line Orientation Task (PLOT)
+* Penn Line Orientation Test (PLOT)
 * Probabilistic Feedback (PFT)
 * Tower of London (ToL)
